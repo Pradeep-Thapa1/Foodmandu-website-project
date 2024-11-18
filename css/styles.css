@@ -1,0 +1,54 @@
+.menu{
+	background-color: #752005;
+	border: none;
+	border-radius: 0;
+	margin-bottom: 0;	
+}
+
+.menu a{
+	color: #ebbc85!important;
+}
+
+.menu a:hover{
+	color: #fff!important;
+}
+
+.banner{
+	margin: 0;
+	padding: 0;	
+}
+
+.dinner{
+	text-align: center;
+	margin-bottom:0; 
+}
+
+.reservation{
+	background-color: #752005;
+	text-align: center;
+	color: #fff;
+}
+.reservation a{
+	color: #fff;
+}
+
+.chef{
+	background-color: #fff;
+	text-align: center;	
+	margin-bottom: 0;
+}
+
+.recipes{
+		background-color:#f69601;
+		text-align: center;
+		margin-bottom: 0;	
+}
+.article{
+	background-color: #ffe2c2;
+}
+.article h2{
+	text-decoration: underline;
+}
+.footer p{
+	text-align:center;
+}
